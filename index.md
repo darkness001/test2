@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[B site](https://syda.dila.edu.tw/winxd/get_referer.php "Title")
+
 You can use the [editor on GitHub](https://github.com/darkness001/test2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

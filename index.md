@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
-[B site](https://syda.dila.edu.tw/winxd/get_referer.php)  
-[B site](https://syda.dila.edu.tw/winxd/get_referer.php){:target="_blank"}
+[dila syda site](https://syda.dila.edu.tw/winxd/get_referer.php)  
+[dila syda site with new Tab](https://syda.dila.edu.tw/winxd/get_referer.php){:target="_blank"}
 
 
 
